@@ -65,6 +65,7 @@ def all_supplies_in_holidays(holiday_hash)
       all_supplies += supplies
     end
   end
+  return all_supplies
 
 end
 
